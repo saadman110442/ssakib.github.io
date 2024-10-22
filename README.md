@@ -1,5 +1,3 @@
-# Saadman Sakib
-
 Welcome to my GitHub Page! I am a Lecturer at the Department of Computer Science and Engineering, Chittagong University of Engineering & Technology, Bangladesh. I am also a Research Consultant at Diligite Ltd., Chattogram, Bangladesh, and a part-time M.Sc. student. My research interests include deep learning, computer vision, and video summarization.
 
 ---
@@ -8,15 +6,15 @@ Welcome to my GitHub Page! I am a Lecturer at the Department of Computer Science
 
 - **Master of Science in Computer Science and Engineering** (2021 - Present)  
   Chittagong University of Engineering & Technology, Chattogram, Bangladesh  
-  **CGPA:** 3.96/4.00
+  
 
 - **Bachelor of Science in Computer Science and Engineering** (2016 - 2021)  
   Chittagong University of Engineering & Technology, Chattogram, Bangladesh  
-  **CGPA:** 3.85/4.00
+ 
 
 - **Higher Secondary School Certificate in Science** (2013 - 2014)  
   Notre Dame College, Dhaka, Bangladesh  
-  **GPA:** 5.00/5.00
+  
 
 ---
 
@@ -24,16 +22,21 @@ Welcome to my GitHub Page! I am a Lecturer at the Department of Computer Science
 
 ### Journals
 - S. Hossain, K. Deb, S. Sakib, and I. H. Sarker, “A hybrid deep learning framework for daily living human activity recognition with cluster-based video summarization,” *Multimedia Tools and Applications*, pp. 1–54, 2024.
+[Paper Link](https://doi.org/10.1007/s11042-024-19022-0) 
 - A. A. Sami, S. Sakib, K. Deb, and I. H. Sarker, “Improved yolov5-based real-time road pavement damage detection in road infrastructure management,” *Algorithms*, vol. 16, no. 9, p. 452, 2023.
+[Paper Link](https://doi.org/10.3390/a16090452)
 - M. W. Hridoy, M. M. Rahman, and S. Sakib, “A framework for industrial inspection system using deep learning,” *Annals of Data Science*, 2022.
+[Paper Link](https://doi.org/10.1007/s40745-022-00437-1)
 - S. Sakib, K. Deb, P. K. Dhar, and O.-J. Kwon, “A framework for pedestrian attribute recognition using deep learning,” *Applied Sciences*, vol. 12, no. 2, p. 622, 2022.
+[Paper Link](https://doi.org/10.3390/app12020622)
 
 ### Conference Proceedings
 - M. M. Hasan, S. Sakib, and K. Deb, “Road damage detection and classification using deep neural network,” in *2022 4th International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE)*, IEEE, 2022, pp. 1–6.
+[Paper Link](https://doi.org/10.1109/ICECTE57896.2022.10114508)
 
 ### Books and Chapters
 - S. Sakib, A. Sen, and K. Deb, “A transfer learning approach to recognize pedestrian attributes,” in *Applied Intelligence for Industry 4.0*, Chapman and Hall/CRC, 2023, pp. 145–161.
-
+[Paper Link](https://doi.org/10.1109/ICECTE57896.2022.10114508)
 ---
 
 ## Employment History
@@ -56,15 +59,11 @@ Welcome to my GitHub Page! I am a Lecturer at the Department of Computer Science
 
 - **Intern**  
   Brain Station 23 Limited, Dhaka, Bangladesh  
-  *2019*  
-  - Designed a Varsity Enrollment Log System as a team member.
-  - Displayed students under specific department-specific teachers and specific sessions with a Graphical Tree Type Representation.
+  *2019*
 
 ---
 
-## Technical Experience
-
-### Projects
+## Projects
 
 - **Pedestrian Attribute Recognition using Deep Learning**  
   *Code available on request*  
