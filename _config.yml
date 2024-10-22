@@ -2,22 +2,7 @@
 
 title: "Saadman Sakib"
 logo: "assets/img/casual_look.png"  
-description: "Lecturer, Department of CSE
-Chittagong University of Engineering and Technology"
+description: "Lecturer, Department of CSE, Chittagong University of Engineering and Technology"
 theme: jekyll-theme-minimal
 show_downloads: false
 
-# Personal details
-contact_info:
-  phone: "+8801521334417"
-  email: "saadmansakib110442@gmail.com"
-  linkedin: "https://www.linkedin.com/in/your-linkedin-profile"
-  github: "https://github.com/saadman110442"
-
-# Profile details
-profile:
-  location: "Chattogram, Bangladesh"
-  research_interests:
-    - Artificial Intelligence
-    - Human-Computer Interaction
-    - Computer Vision
