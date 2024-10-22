@@ -37,6 +37,7 @@ Welcome to my GitHub Page! I am a Lecturer at the Department of Computer Science
 ### Books and Chapters
 - S. Sakib, A. Sen, and K. Deb, “A transfer learning approach to recognize pedestrian attributes,” in *Applied Intelligence for Industry 4.0*, Chapman and Hall/CRC, 2023, pp. 145–161.
 [Paper Link](https://doi.org/10.1109/ICECTE57896.2022.10114508)
+
 ---
 
 ## Employment History
