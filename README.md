@@ -2,19 +2,40 @@
 
 ---
 
-- **Phone:** [+8801521334417](tel:+8801521334417)
-- **Email:** [saadmansakib110442@gmail.com](mailto:saadmansakib110442@gmail.com)
-- **LinkedIn:** [View Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **GitHub:** [View Profile](https://github.com/saadman110442)
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+    <div>
+        <strong>Phone:</strong> <a href="tel:+8801521334417">+8801521334417</a>
+    </div>
+    <div>
+        <strong>Email:</strong> <a href="mailto:saadmansakib110442@gmail.com">saadmansakib110442@gmail.com</a>
+    </div>
+    <div>
+        <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">View Profile</a>
+    </div>
+    <div>
+        <strong>GitHub:</strong> <a href="https://github.com/saadman110442" target="_blank">View Profile</a>
+    </div>
+</div>
 
 ## Location
-- **Based in:** Chattogram, Bangladesh
+
+<div style="display: flex; gap: 10px; align-items: center;">
+    <strong>Based in:</strong> Chattogram, Bangladesh
+</div>
 
 ## Research Interests
-- **Areas of Interest:**
-  - Artificial Intelligence
-  - Human-Computer Interaction
-  - Computer Vision
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+    <div>
+        <strong>Artificial Intelligence</strong>
+    </div>
+    <div>
+        <strong>Human-Computer Interaction</strong>
+    </div>
+    <div>
+        <strong>Computer Vision</strong>
+    </div>
+</div>
 
 ---
 
