@@ -4,7 +4,9 @@
 
 I am a Lecturer in the Department of Computer Science and Engineering at Chittagong University of Engineering and Technology (CUET), Bangladesh, currently pursuing an M.Sc. in Computer Science and Engineering alongside my teaching role. My research interests center around computer vision and deep learning, with a particular focus on video summarization and human activity recognition using advanced models like transformers.
 
-My work emphasizes developing scalable solutions for real-time analysis, enabling better understanding and interpretation of complex video data. Through my teaching, I aim to inspire students in artificial intelligence while continuing to explore cutting-edge research in deep learning. I am seeking a Ph.D. opportunity in Computer Science for Fall 2025 to further contribute to advancements in these areas.
+My work emphasizes developing scalable solutions for real-time analysis, enabling better understanding and interpretation of complex video data. Through my teaching, I aim to inspire students in artificial intelligence while continuing to explore cutting-edge research in deep learning. 
+
+I am seeking a Ph.D. opportunity in Computer Science for Fall 2025 to further contribute to advancements in these areas.
 
 ---
 
