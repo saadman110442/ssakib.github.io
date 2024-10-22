@@ -1,7 +1,7 @@
 # _config.yml
 
 title: "Saadman Sakib"
-image: "assets/img/CUET_Saadman_Sakib.jpg"  
+logo: "assets/img/CUET_Saadman_Sakib.jpg"  
 description: "Lecturer, Department of CSE, Chittagong University of Engineering and Technology"
 theme: jekyll-theme-minimal
 show_downloads: false
