@@ -1,6 +1,24 @@
-## About Me
+## Contact Information
 
 ---
+
+- **Phone:** [+8801521334417](tel:+8801521334417)
+- **Email:** [saadmansakib110442@gmail.com](mailto:saadmansakib110442@gmail.com)
+- **LinkedIn:** [View Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- **GitHub:** [View Profile](https://github.com/saadman110442)
+
+## Location
+- **Based in:** Chattogram, Bangladesh
+
+## Research Interests
+- **Areas of Interest:**
+  - Artificial Intelligence
+  - Human-Computer Interaction
+  - Computer Vision
+
+---
+
+## About Me
 
 I am a Lecturer in the Department of Computer Science and Engineering at Chittagong University of Engineering and Technology (CUET), Bangladesh, currently pursuing an M.Sc. in Computer Science and Engineering alongside my teaching role. My research interests center around computer vision and deep learning, with a particular focus on video summarization and human activity recognition using advanced models like transformers.
 
