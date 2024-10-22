@@ -1,4 +1,40 @@
+# Saadman Sakib
+
+<img src="assets/img/CUET_Saadman_Sakib.jpg" alt="Saadman Sakib" width="150" style="border-radius: 50%; margin: 10px;">
+
 Welcome to my GitHub Page! I am a Lecturer at the Department of Computer Science and Engineering, Chittagong University of Engineering & Technology, Bangladesh. I am also a Research Consultant at Diligite Ltd., Chattogram, Bangladesh, and a part-time M.Sc. student. My research interests include deep learning, computer vision, and video summarization.
+
+---
+
+## About Me
+- **Location:** Chattogram, Bangladesh
+- **Current Role:** Lecturer
+- **Research Interests:** Artificial Intelligence, Human-Computer Interaction, Computer Vision
+
+---
+
+## Connect with Me
+
+<div style="margin-top: 10px;">
+    <a href="tel:+8801521334417" style="text-decoration: none; margin-right: 15px;" target="_blank">
+        <i class="fas fa-phone" style="font-size: 24px;"></i> Contact
+    </a>
+    <a href="mailto:saadmansakib110442@gmail.com" style="text-decoration: none; margin-right: 15px;" target="_blank">
+        <i class="fas fa-envelope" style="font-size: 24px;"></i> Email
+    </a>
+    <a href="https://www.linkedin.com/in/your-linkedin-profile" style="text-decoration: none; margin-right: 15px;" target="_blank">
+        <i class="fab fa-linkedin" style="font-size: 24px;"></i> LinkedIn
+    </a>
+    <a href="https://github.com/saadman110442" style="text-decoration: none; margin-right: 15px;" target="_blank">
+        <i class="fab fa-github" style="font-size: 24px;"></i> GitHub
+    </a>
+</div>
+
+---
+
+I am a Lecturer in the Department of Computer Science and Engineering at Chittagong University of Engineering and Technology (CUET), Bangladesh, currently pursuing an M.Sc. in Computer Science and Engineering alongside my teaching role. My research interests center around computer vision and deep learning, with a particular focus on video summarization and human activity recognition using advanced models like transformers.
+
+My work emphasizes developing scalable solutions for real-time analysis, enabling better understanding and interpretation of complex video data. Through my teaching, I aim to inspire students in artificial intelligence while continuing to explore cutting-edge research in deep learning. I am seeking a Ph.D. opportunity in Computer Science for Fall 2025 to further contribute to advancements in these areas.
 
 ---
 
